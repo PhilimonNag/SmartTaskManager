@@ -20,7 +20,7 @@ data visualization, and advanced functionalities like biometric authentication.
 1. **Clone the Repository:**
 
     ```bash
-    https://github.com/PhilimonNag/SmartTaskManager.git
+    git clone https://github.com/PhilimonNag/SmartTaskManager.git
     ```
 
 2. **Navigate to the Project Directory:**
